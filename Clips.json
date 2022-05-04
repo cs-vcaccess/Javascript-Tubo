@@ -232,7 +232,7 @@
           "trigger": "seq"
         },
         {
-          "content": "${1:iterable}.forEach((${2:item}) => {\n\t$0\n);",
+          "content": "${1:iterable}.forEach((${2:item}) => {\n\t$0\n});",
           "name": "forEach loop",
           "scope": "editor",
           "syntax": "javascript",
